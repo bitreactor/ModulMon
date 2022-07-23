@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ModulMon": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
