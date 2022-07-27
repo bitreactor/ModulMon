@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModulMon", "\brose.net\pd\WUP\bpcruntime\FA_work\TeamFoundation\ModulMon\ModulMon\ModulMon.csproj\", "{A6027049-4B53-4AB6-80BC-AD0548DD9806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModulMon", "ModulMon\ModulMon.csproj", "{A6027049-4B53-4AB6-80BC-AD0548DD9806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
